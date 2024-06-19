@@ -1,2 +1,1 @@
-# symmetrical-umbrella
-dicom-to-nifti
+# dicom-to-nifti
